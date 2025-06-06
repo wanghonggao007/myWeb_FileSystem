@@ -1,5 +1,8 @@
 
 登陆秘密：123456
+
+
+
 #对应我的blog
 [我的Django文件管理系统2--Apple的学习笔记](https://www.jianshu.com/p/23e27bbaf9cf).
 [我的Django文件管理系统--Apple的学习笔记](https://www.jianshu.com/p/7243b8863dba). 
